@@ -1,12 +1,8 @@
-import Home from "./pages/Home"
-
 function App() {
- 
-  
 
   return (
     <>
-    <Home />
+      <h1 className="text-5xl">Mondongo</h1>
     </>
   )
 }
